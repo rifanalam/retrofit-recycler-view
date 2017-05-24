@@ -1,4 +1,4 @@
-package com.shohoz.retrofit;
+package info.androidboss.retrofit;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
@@ -9,7 +9,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetroFitApiClient {
 
-    public static final String BASE_URL = "http://api.androidhive.info/json/";
+    public static final String BASE_URL = "http://api.androidboss.info/movie/";
     private static Retrofit retrofit = null;
 
     public static Retrofit getClient(){

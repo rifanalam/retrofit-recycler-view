@@ -1,4 +1,4 @@
-package com.shohoz.retrofit;
+package info.androidboss.retrofit;
 
 import com.google.gson.annotations.SerializedName;
 

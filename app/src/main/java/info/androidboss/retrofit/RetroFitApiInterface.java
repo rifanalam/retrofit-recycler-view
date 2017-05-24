@@ -1,4 +1,4 @@
-package com.shohoz.retrofit;
+package info.androidboss.retrofit;
 
 import java.util.List;
 
