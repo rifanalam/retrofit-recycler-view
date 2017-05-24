@@ -1,4 +1,4 @@
-package info.androidboss.retrofit;
+package info.androidboss.retrofit.fragment;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -17,6 +17,11 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
+import info.androidboss.retrofit.model.Movie;
+import info.androidboss.retrofit.adapter.MovieAdapter;
+import info.androidboss.retrofit.R;
+import info.androidboss.retrofit.utils.RetroFitApiClient;
+import info.androidboss.retrofit.appinterface.RetroFitApiInterface;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

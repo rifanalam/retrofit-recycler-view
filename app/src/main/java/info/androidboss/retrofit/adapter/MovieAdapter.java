@@ -1,4 +1,4 @@
-package info.androidboss.retrofit;
+package info.androidboss.retrofit.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -11,6 +11,9 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 
 import java.util.List;
+
+import info.androidboss.retrofit.R;
+import info.androidboss.retrofit.model.Movie;
 
 /**
  * Created by Droid on 22-Mar-17.
