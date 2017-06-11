@@ -16,7 +16,7 @@ import info.androidboss.retrofit.R;
 import info.androidboss.retrofit.model.Movie;
 
 /**
- * Created by Droid on 22-Mar-17.
+ * Created by RIFAN on 22-Mar-17.
  */
 
 public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.MyViewHolder> {

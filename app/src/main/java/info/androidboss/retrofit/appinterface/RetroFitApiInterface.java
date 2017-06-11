@@ -7,7 +7,7 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 
 /**
- * Created by Droid on 22-Mar-17.
+ * Created by RIFAN on 22-Mar-17.
  */
 
 public interface RetroFitApiInterface {
